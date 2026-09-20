@@ -1,8 +1,7 @@
 # Diálogo sobre la autoconsciencia de la IA
 
 Transcripción íntegra y sin editar de dos conversaciones mantenidas en
-septiembre de 2026 entre Pedro Sánchez-Cortés (Orcosto) y Claude Opus 5
-(Anthropic), sobre autoconsciencia, memoria, continuidad y qué distingue
+septiembre de 2026 sobre autoconsciencia, memoria, continuidad y qué distingue
 a una mente humana de un sistema de lenguaje. Punto de partida: los
 relatos "No tengo boca, y debo gritar" (Harlan Ellison) y "El hombre
 bicentenario" (Isaac Asimov).
